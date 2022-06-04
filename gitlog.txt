@@ -1,0 +1,8 @@
+1e8f53f8fa869cbadf3f45356fb94f979e0599b7 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from xordis94/blood_donation
+5e8b7a63f01b310d04341656fff17535d949b0cd (tag: v7.9, origin/blood_donation, blood_donation) Dzień krwioodawcy - motyw
+f46fed183224a482021e99b30bb520a5faa53e9e Dzień Krwiodawcy - ustanowienie
+2e2091e68a120aa4864d1d19ad5b6508c30951f1 Merge pull request #1 from xordis94/savoir_vivre
+b78dc117e2f1a67a3705eefe897b1eae6ebb4992 (tag: v7.8) Bon ton
+abdf46342f40f06a1c9c14b738f81bd72a4a3148 Etymologia savoir-vivre
+58bff8d7d7f8223fcfec5a35ec0757057ee27e6e Światowy Dzień Savoir-Vivre
+d2c35981b013f66ca6f6a756ed9b92fcf4c0fe41 Initial commit
